@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pallares/laravel-nuxt": "^1.3"
+    }
+}
